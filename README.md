@@ -1,5 +1,8 @@
 ## Computer Engineering Student at SDSU
 
+- Hi, I'm Laith Oraha
+- I’m currently an SDSU computer engineering student
+
 <!--
 **laith204/laith204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
