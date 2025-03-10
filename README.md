@@ -11,7 +11,7 @@ I'm a Computer Engineering undergrad at San Diego State University, specializing
   - Working with RTL design, simulation, and FPGA-based computing  
 
 - **Automotive Electronics & ECU Tuning**  
-  - Reverse engineering **immobilizer modules** and reprogramming **ECUs** for performance tuning  
+  - Tinkering with car electronics, ECU programming, and immobilizer jailbreaking.  
   - Low-level debugging, firmware modifications, and **CAN bus** communication
 
   
