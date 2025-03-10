@@ -3,9 +3,9 @@ I'm a Computer Engineering junior at San Diego State University, specializing in
 
 🔹 What I Work On:
 
-Embedded Systems – Low-level programming, microcontrollers, and real-time applications.
+Embedded Systems - Low-level programming, microcontrollers, and real-time applications.
 FPGAs & Verilog – Digital design, hardware acceleration, and custom logic implementations.
-Automotive Projects – Tinkering with car electronics, ECU programming, and performance tuning.
+Automotive Projects – Tinkering with car electronics, ECU programming, and immobilizer jailbraking.
 🔹 Why I Love This Field:
 I enjoy building efficient, optimized systems that bridge the gap between software and hardware. Whether it's writing firmware, designing FPGA architectures, or debugging a CAN bus issue in a car, I thrive on solving real-world engineering challenges.
 
