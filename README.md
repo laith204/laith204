@@ -1,17 +1,26 @@
 ## 👋 Welcome to My GitHub!
-I'm a Computer Engineering junior at San Diego State University, specializing in embedded systems and FPGA development. I have a strong technical background in C, C++, Python, and Verilog, with hands-on experience designing and implementing hardware-software systems.
+I'm a Computer Engineering undergrad at San Diego State University, specializing in embedded systems and FPGA development. I have a strong technical background in C, C++, Python, and Verilog, with hands-on experience designing and implementing hardware-software systems.
 
-🔹 What I Work On:
+##🔹 What I Work On
+- **Embedded Systems**  
+  - Low-level programming and firmware development  
+  - Microcontrollers, real-time applications, and hardware-software integration  
 
-Embedded Systems - Low-level programming, microcontrollers, and real-time applications.
-FPGAs & Verilog – Digital design, hardware acceleration, and custom logic implementations.
-Automotive Projects – Tinkering with car electronics, ECU programming, and immobilizer jailbraking.
-🔹 Why I Love This Field:
-I enjoy building efficient, optimized systems that bridge the gap between software and hardware. Whether it's writing firmware, designing FPGA architectures, or debugging a CAN bus issue in a car, I thrive on solving real-world engineering challenges.
+- **FPGAs & Verilog**  
+  - Digital design, custom logic implementation, and hardware acceleration  
+  - Working with RTL design, simulation, and FPGA-based computing  
 
-📂 Check Out My Projects – I'm always working on something new, from FPGA-based designs to embedded applications. Feel free to explore my repos!
+- **Automotive Electronics & ECU Tuning**  
+  - Reverse engineering **immobilizer modules** and reprogramming **ECUs** for performance tuning  
+  - Low-level debugging, firmware modifications, and **CAN bus** communication
 
-🚀 Let’s Connect – Open to collaboration, internships, and discussions about embedded systems, automotive tech, and FPGA development.
+  
+📂 Check Out My Projects
+I'm always working on something new, from FPGA-based designs to embedded applications. Feel free to explore my repositories!
+
+🚀 Let’s Connect
+Open to collaboration, internships, and discussions about embedded systems, automotive tech, and FPGA development.
+
 
 <!--
 **laith204/laith204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
