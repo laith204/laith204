@@ -1,7 +1,7 @@
 ## 👋 Welcome to My GitHub!
 I'm a Computer Engineering undergrad at San Diego State University, specializing in embedded systems and FPGA development. I have a strong technical background in C, C++, Python, and Verilog, with hands-on experience designing and implementing hardware-software systems.
 
-##🔹 What I Work On
+###🔹 What I Work On
 - **Embedded Systems**  
   - Low-level programming and firmware development  
   - Microcontrollers, real-time applications, and hardware-software integration  
