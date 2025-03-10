@@ -12,7 +12,7 @@ I'm a Computer Engineering undergrad at San Diego State University, specializing
 
 - **Automotive Electronics & ECU Tuning**  
   - Tinkering with car electronics, ECU programming, and immobilizer jailbreaking.  
-  - Low-level debugging, firmware modifications, and **CAN bus** communication
+  - Low-level debugging, electrical diagnostics, and CAN bus communication
 
   
 📂 Check Out My Projects
