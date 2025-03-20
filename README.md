@@ -10,7 +10,7 @@ I'm a Computer Engineering undergrad at San Diego State University, specializing
   - Digital design, custom logic implementation, and hardware acceleration  
   - Working with RTL design, simulation, and FPGA-based computing  
 
-- **Automotive Electronics & ECU Tuning**  
+- **Automotive Electronics & ECU Programming**  
   - Tinkering with car electronics, ECU programming, and immobilizer jailbreaking.  
   - Low-level debugging, electrical diagnostics, and CAN bus communication
 
